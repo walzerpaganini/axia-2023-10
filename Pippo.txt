@@ -2,5 +2,3 @@ let x = someFunction()
 
 anotherFunction(x)
 console.log("Ciao")
-
-BUG!!!
