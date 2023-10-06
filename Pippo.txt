@@ -2,3 +2,5 @@ let x = someFunction()
 
 anotherFunction(x)
 console.log("Ciao")
+
+console.log("Ciao2")
