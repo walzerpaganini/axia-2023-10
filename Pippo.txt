@@ -1,1 +1,2 @@
-someFunction()
+let x = someFunction()
+anotherFunction(x)
