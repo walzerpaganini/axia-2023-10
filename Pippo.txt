@@ -1,6 +1,4 @@
 let x = someFunction()
+
 anotherFunction(x)
-
-ERROR!!!
-
 console.log("Ciao")
